@@ -1,0 +1,3 @@
+
+<h6>The Music Player project is a web-based application that allows users to play and manage their favorite songs. Built with HTML, CSS, and JavaScript for the frontend, it offers an interactive and user-friendly interface. The backend is powered by Python using the Django framework, with SQLite as the database to store user playlists and song information. This application provides essential music player features like play, pause, and track navigation while maintaining efficient data management for seamless performance.</h6>
+<img width="919" alt="Screenshot 2024-10-01 191621" src="https://github.com/user-attachments/assets/2fd6247e-f4d9-47df-83ca-528d864ae67f">
